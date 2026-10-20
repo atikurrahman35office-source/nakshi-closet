@@ -1,0 +1,6 @@
+{
+  "name": "Nakshi Closet - South Asian Fashion Boutique",
+  "description": "Premium Android shopping application and admin management suite for Nakshi Closet, featuring saree, salwar kameez, and kurti collections with Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
